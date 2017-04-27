@@ -1,2 +1,2 @@
 # NASA API
-mpsujek.github.io/NASA_API/
+https://mpsujek.github.io/NASA_API/
